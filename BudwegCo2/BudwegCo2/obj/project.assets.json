@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tobia\\.nuget\\packages\\": {}
+    "C:\\Users\\sigur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tobia\\Source\\Repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
+      "projectUniqueName": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
       "projectName": "BudwegCo2",
-      "projectPath": "C:\\Users\\Tobia\\Source\\Repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
-      "packagesPath": "C:\\Users\\Tobia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tobia\\Source\\Repos\\Budweg2.0\\BudwegCo2\\BudwegCo2\\obj\\",
+      "projectPath": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\BudwegCo2.csproj",
+      "packagesPath": "C:\\Users\\sigur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sigur\\Source\\Repos\\Budweg\\BudwegCo2\\BudwegCo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tobia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sigur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
